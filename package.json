@@ -1,0 +1,37 @@
+{
+"name": "legal-template-indonesia",
+"version": "1.0.0",
+"description": "Open-source collection of Indonesian legal document templates and document generation tools.",
+"main": "src/index.js",
+"type": "module",
+"scripts": {
+"start": "node src/index.js",
+"dev": "node src/index.js",
+"test": "echo "No tests specified"",
+"lint": "markdownlint '**/*.md'"
+},
+"keywords": [
+"legal",
+"template",
+"indonesia",
+"contract",
+"agreement",
+"nda",
+"law",
+"legaltech",
+"documents"
+],
+"author": "Indonesia Legal Templates Contributors",
+"license": "MIT",
+"repository": {
+"type": "git",
+"url": "https://github.com/gizzardkey/legal-template-indonesia.git"
+},
+"bugs": {
+"url": "https://github.com/gizzardkey/legal-template-indonesia/issues"
+},
+"homepage": "https://github.com/gizzardkey/legal-template-indonesia",
+"devDependencies": {
+"markdownlint-cli": "^0.39.0"
+}
+}
