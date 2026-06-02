@@ -1,0 +1,37 @@
+[
+{
+"id": "perjanjian-kerja-sama",
+"title": "Perjanjian Kerja Sama",
+"category": "bisnis",
+"file": "templates/bisnis/perjanjian-kerja-sama.md",
+"version": "1.0.0"
+},
+{
+"id": "perjanjian-jasa",
+"title": "Perjanjian Jasa",
+"category": "bisnis",
+"file": "templates/bisnis/perjanjian-jasa.md",
+"version": "1.0.0"
+},
+{
+"id": "kontrak-kerja-karyawan",
+"title": "Kontrak Kerja Karyawan",
+"category": "ketenagakerjaan",
+"file": "templates/ketenagakerjaan/kontrak-kerja-karyawan.md",
+"version": "1.0.0"
+},
+{
+"id": "nda-perjanjian-kerahasiaan",
+"title": "NDA / Perjanjian Kerahasiaan",
+"category": "legal",
+"file": "templates/legal/nda-perjanjian-kerahasiaan.md",
+"version": "1.0.0"
+},
+{
+"id": "surat-lamaran-kerja",
+"title": "Surat Lamaran Kerja",
+"category": "umum",
+"file": "templates/umum/surat-lamaran-kerja.md",
+"version": "1.0.0"
+}
+]
