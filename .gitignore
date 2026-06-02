@@ -1,0 +1,61 @@
+# Dependencies
+
+node_modules/
+
+# Logs
+
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+
+.env
+.env.local
+.env.production
+
+# Build Output
+
+dist/
+build/
+
+# Coverage
+
+coverage/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# IDE
+
+.vscode/
+.idea/
+
+# Temporary Files
+
+tmp/
+temp/
+
+# Cache
+
+.cache/
+
+# Package Lock (optional)
+
+# package-lock.json
+
+# Generated Files
+
+*.pdf
+*.docx
+*.xlsx
+
+# Runtime Data
+
+pids/
+*.pid
+*.seed
