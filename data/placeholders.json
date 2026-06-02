@@ -1,0 +1,20 @@
+{
+"NAMA": "Nama Lengkap",
+"ALAMAT": "Alamat Lengkap",
+"NIK": "Nomor Induk Kependudukan",
+"EMAIL": "Alamat Email",
+"NO_HP": "Nomor Telepon",
+"TANGGAL": "Tanggal Dokumen",
+"KOTA": "Kota Pembuatan Dokumen",
+"JABATAN": "Jabatan",
+"GAJI": "Nominal Gaji",
+"TUNJANGAN": "Nominal Tunjangan",
+"NAMA_PERUSAHAAN": "Nama Perusahaan",
+"NOMINAL": "Jumlah Uang",
+"NOMOR_SURAT": "Nomor Surat",
+"NOMOR_KONTRAK": "Nomor Kontrak",
+"TTL": "Tempat dan Tanggal Lahir",
+"PEKERJAAN": "Pekerjaan",
+"REKENING": "Nomor Rekening",
+"BANK": "Nama Bank"
+}
