@@ -1,0 +1,22 @@
+[
+{
+"id": "bisnis",
+"name": "Bisnis",
+"description": "Template dokumen untuk kebutuhan bisnis dan komersial."
+},
+{
+"id": "ketenagakerjaan",
+"name": "Ketenagakerjaan",
+"description": "Template dokumen terkait hubungan kerja dan SDM."
+},
+{
+"id": "legal",
+"name": "Legal",
+"description": "Template dokumen hukum dan perjanjian."
+},
+{
+"id": "umum",
+"name": "Umum",
+"description": "Template surat dan dokumen umum."
+}
+]
